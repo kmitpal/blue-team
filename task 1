@@ -1,2 +1,3 @@
 Vamshidhars-MBP:~ vamshidharpalavarapu$ echo "welcome to project school">>file1.txt
 Vamshidhars-MBP:~ vamshidharpalavarapu$ cat file1.txt
+Vamshidhars-MBP:~ vamshidharpalavarapu$ echo "cyber security session">>file1.txt
