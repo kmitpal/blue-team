@@ -1,0 +1,14 @@
+PORT    STATE SERVICE
+21/tcp  open  ftp
+22/tcp  open  ssh
+80/tcp  open  http
+110/tcp open  pop3
+143/tcp open  imap
+443/tcp open  https
+587/tcp open  submission
+993/tcp open  imaps
+995/tcp open  pop3s
+(Linux 2.4.37)
+Nmap done: 1 IP address (1 host up) scanned in 75.95 seconds
+(206.54.190.30)
+
