@@ -1,0 +1,14 @@
+RULES TO BE FOLLOWED:-
+
+1.Please enter the title(news) as it is mandatory.
+
+2.you can provide the url of the social media post in url input box. (INSTAGRAM OR FACEBOOK ONLY)
+
+3.URL is not mandatory.
+
+4.Then after giving the required inputs click on submit.
+
+5.If the output is displayed as irrelevant then the provided input is a message.
+   If the output is displayed as real news then the provided news is real.
+   If the output is displayed as fake news then the provided news is fake.
+
